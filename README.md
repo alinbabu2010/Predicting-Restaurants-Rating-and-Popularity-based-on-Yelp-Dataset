@@ -1,0 +1,3 @@
+# Predicting-Restaurants-Rating-and-Popularity-based-on-Yelp-Dataset
+Restaurants rating on Yelp becomes an important indicator of their future. In this project, we focus on predicting ratings and popularity change of restaurants. With data from Yelp, we use several machine learning methods including logistic regression and Naive Bayes, to make relevant predictions. While logistic regression seems to perform better than the others, predictions from all the methods are far from perfect. This implies the potential improvement of more data and more suited methodology.
+For report please visit https://drive.google.com/open?id=1MBuMBg585-Qngms2kfCiMIenFLweT7cZAA_2M5Aq1Bs
